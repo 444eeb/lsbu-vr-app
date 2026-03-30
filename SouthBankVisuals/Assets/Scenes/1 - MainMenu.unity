@@ -1160,7 +1160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b391da8d7320b84e99107c227152efd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetScene: Scene_Library
+  targetScene: 4 - Scene_Library
   loadingScreen: {fileID: 0}
 --- !u!1 &1155464231
 GameObject:
@@ -1291,7 +1291,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b391da8d7320b84e99107c227152efd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetScene: Scene_Courtyard
+  targetScene: 2 - Scene_Courtyard
   loadingScreen: {fileID: 0}
 --- !u!114 &1308770820
 MonoBehaviour:
@@ -1757,7 +1757,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b391da8d7320b84e99107c227152efd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetScene: Scene_Cafe
+  targetScene: 3 - Scene_Cafe
   loadingScreen: {fileID: 0}
 --- !u!1 &1552084575
 GameObject:
@@ -2040,7 +2040,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b391da8d7320b84e99107c227152efd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetScene: Scene_Classroom
+  targetScene: 5 - Scene_Classroom
   loadingScreen: {fileID: 0}
 --- !u!1 &1637799033
 GameObject:

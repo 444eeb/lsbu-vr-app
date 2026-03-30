@@ -1931,6 +1931,7 @@ GameObject:
   - component: {fileID: 5510647515563102334}
   - component: {fileID: 8944430075306226654}
   - component: {fileID: 5625041118865401693}
+  - component: {fileID: 8944430075306226655}
   m_Layer: 5
   m_Name: Btn_Menu
   m_TagString: Untagged
@@ -2321,9 +2322,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 5625041118865401693}
-        m_TargetAssemblyTypeName: NavigationManager, Assembly-CSharp
-        m_MethodName: GoToNav
+      - m_Target: {fileID: 8944430075306226655}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2333,6 +2334,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &8944430075306226655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3016480986715252507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b391da8d7320b84e99107c227152efd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetScene: 6 - NavPanel
+  loadingScreen: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

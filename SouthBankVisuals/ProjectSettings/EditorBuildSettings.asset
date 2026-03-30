@@ -4,7 +4,25 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1 - MainMenu.unity
+    guid: ca7592148fd1c4e4e907225d03312b34
+  - enabled: 1
+    path: Assets/Scenes/2 - Scene_Courtyard.unity
+    guid: 85d14896ed8be044d8d877536edbd638
+  - enabled: 1
+    path: Assets/Scenes/3 - Scene_Cafe.unity
+    guid: b76cf693af8feea4e83db8891c9272fb
+  - enabled: 1
+    path: Assets/Scenes/4 - Scene_Library.unity
+    guid: aa36bacb593e59540bc2ead0be964ba4
+  - enabled: 1
+    path: Assets/Scenes/5 - Scene_Classroom.unity
+    guid: 3a04bf5ebeb7a164cbf7fb86897d39e0
+  - enabled: 1
+    path: Assets/Scenes/6 - NavPanel.unity
+    guid: 4c0fad39d0eac014ca8e9d679902145b
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 586f498294a647b41bf34c3d17967ade, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0d8b177aacd4869499f5914d766b8903, type: 2}

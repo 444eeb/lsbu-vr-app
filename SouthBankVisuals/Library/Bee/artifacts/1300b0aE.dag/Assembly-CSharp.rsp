@@ -384,6 +384,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f3/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/Hotspot.cs"
+"Assets/Scripts/InfoPanelController.cs"
 "Assets/Scripts/NavigationManager.cs"
 "Assets/Scripts/SceneLoader.cs"
 "Assets/Scripts/SkyspherController.cs"

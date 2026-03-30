@@ -707,7 +707,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -45}
+  m_AnchoredPosition: {x: 0, y: -40}
   m_SizeDelta: {x: 140, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &475717365
@@ -730,8 +730,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Main Entrance \xB7 Benches \xB7 Surrounding Buildings\r\n\r\nPlaceholder
-    text \u2014 collaborator to update."
+  m_text: "You're standing in the heart of campus, a wide open brick paved square
+    surrounded by a mix of older university buildings and newer glass fronted ones
+    like the LSBU Hub. \nThere are long wooden benches dotted around, a bit of greenery
+    breaking things up, and usually a handful of students just sitting, passing through,
+    or killing time between lectures. It's not a manicured quad, it's a real working
+    campus space and that's kind of what makes it feel lived in. \nOn a decent day
+    it's actually a pretty good spot to be outside, and you'll find yourself cutting
+    through here more times than you can count."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: fa8262f62f0c58549807ecdb3cd379d0, type: 2}
   m_sharedMaterial: {fileID: -6885796361933926332, guid: fa8262f62f0c58549807ecdb3cd379d0, type: 2}
@@ -758,8 +764,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 5
-  m_fontSizeBase: 5
+  m_fontSize: 4.5
+  m_fontSizeBase: 4.5
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

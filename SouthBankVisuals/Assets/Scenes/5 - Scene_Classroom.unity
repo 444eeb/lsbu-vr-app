@@ -311,7 +311,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panoramicImage: {fileID: 0}
-  panoramicVideo: {fileID: 0}
+  panoramicVideo: {fileID: 32900000, guid: c18cddf977b3ecc4a9b6988ab4ed464c, type: 3}
   sphereRenderer: {fileID: 1964738780}
 --- !u!135 &1964738779
 SphereCollider:

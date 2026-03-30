@@ -56,4 +56,14 @@ public class SkyspherController : MonoBehaviour
         if (videoPlayer != null) videoPlayer.Stop();
         skyMaterial.SetTexture("_MainTex", newImage);
     }
+
+    public void SwapVideo(VideoClip newVideo)
+{
+    if (videoPlayer != null)
+    {
+        videoPlayer.Stop();
+        videoPlayer.clip = newVideo;
+        videoPlayer.Play();
+    }
+}
 }

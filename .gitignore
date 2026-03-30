@@ -78,4 +78,9 @@ crashlytics-build.properties
 *.mp4
 *.mov
 *.avi
-SouthBankVisuals/Assets/Content/Videos/
+SouthBankVisuals/Library/Bee/
+SouthBankVisuals/Library/
+SouthBankVisuals/Library/Bee/
+SouthBankVisuals/Temp/
+SouthBankVisuals/Obj/
+SouthBankVisuals/Builds/
